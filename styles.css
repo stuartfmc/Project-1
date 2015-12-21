@@ -104,7 +104,7 @@ header .profile-image:hover {
 
 .contact-info {
   list-style-type: none;
-  margin: none;
+  color: #999999;
 }
 
 ul.skills {
