@@ -104,6 +104,7 @@ header .profile-image:hover {
 
 .contact-info {
   list-style-type: none;
+  padding-left: 0;
 }
 
 .contact-info a {
